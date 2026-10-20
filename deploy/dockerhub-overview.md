@@ -129,8 +129,8 @@ Release tags are published only when the GitHub Release is published.
 Preview builds always come from `main` and never version-sort below `:stable`,
 so upgrades flow naturally. The same images and tags
 are mirrored on GHCR at
-[`ghcr.io/debpalash/voicestudio`](https://github.com/debpalash/VoiceStudio/pkgs/container/voicestudio).
-The former `ghcr.io/debpalash/omnivoice-studio` path remains a compatible alias.
+[`ghcr.io/Codeepritam/voicestudio`](https://github.com/debpalash/VoiceStudio/pkgs/container/voicestudio).
+The former `ghcr.io/Codeepritam/omnivoice-studio` path remains a compatible alias.
 
 ---
 
